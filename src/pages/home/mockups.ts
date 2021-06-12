@@ -10,7 +10,7 @@ export const productList1 = [
     price: "11990",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -20,7 +20,7 @@ export const productList1 = [
     price: "13290",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -30,7 +30,7 @@ export const productList1 = [
     price: "4000",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -40,7 +40,7 @@ export const productList1 = [
     price: "7399",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -50,7 +50,7 @@ export const productList1 = [
     price: "3499",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -60,7 +60,7 @@ export const productList1 = [
     price: "5999",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -70,7 +70,7 @@ export const productList1 = [
     price: "6199",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -80,7 +80,7 @@ export const productList1 = [
     price: "13699",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -90,7 +90,7 @@ export const productList1 = [
     price: "5021",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -105,7 +105,7 @@ export const productList2 = [
     price: "11990",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -115,7 +115,7 @@ export const productList2 = [
     price: "13290",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -125,7 +125,7 @@ export const productList2 = [
     price: "4000",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -135,7 +135,7 @@ export const productList2 = [
     price: "7399",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -145,7 +145,7 @@ export const productList2 = [
     price: "3499",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -155,7 +155,7 @@ export const productList2 = [
     price: "5999",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -165,7 +165,7 @@ export const productList2 = [
     price: "6199",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -175,7 +175,7 @@ export const productList2 = [
     price: "13699",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -185,7 +185,7 @@ export const productList2 = [
     price: "5021",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -200,7 +200,7 @@ export const productList3 = [
     price: "11990",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -210,7 +210,7 @@ export const productList3 = [
     price: "13290",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -220,7 +220,7 @@ export const productList3 = [
     price: "4000",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -230,7 +230,7 @@ export const productList3 = [
     price: "7399",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -240,7 +240,7 @@ export const productList3 = [
     price: "3499",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -250,7 +250,7 @@ export const productList3 = [
     price: "5999",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -260,7 +260,7 @@ export const productList3 = [
     price: "6199",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -270,7 +270,7 @@ export const productList3 = [
     price: "13699",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
@@ -280,7 +280,7 @@ export const productList3 = [
     price: "5021",
     touristRoutePictures: [
       {
-        url: "https://s3.ax1x.com/2020/12/15/rMQOIJ.jpg",
+        url: "https://5b0988e595225.cdn.sohucs.com/images/20180504/b1d2213d1738472ebd174e50692fbe8b.jpeg",
       },
     ],
   },
