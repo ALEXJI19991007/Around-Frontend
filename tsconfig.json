@@ -1,26 +1,33 @@
 {
   "compilerOptions": {
+    // "noImplicitAny": false,
     "target": "es5",
     "lib": [
       "dom",
       "dom.iterable",
       "esnext"
     ],
-    "allowJs": true,
+    "allowJs": true, // 允许混合编辑JS文件
     "skipLibCheck": true,
-    "esModuleInterop": true,
+    "esModuleInterop": true, // 允许我们使用commonjs的方式import默认文件, import React from "react"
+    // "esModuleInterop": false, // import * as React from "react"
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
-    "module": "esnext",
-    "moduleResolution": "node",
+    "module": "esnext", // 配置代码模块系统。比较常见的有Node.js的CommonJS系统，ES6标准的esnext系统，以及requirejs的AMD系统。我们这里使用的是ES6标准的esnext系统，不过如果把这里换成CommonJS也是可以的
+    "moduleResolution": "node", // 这个选项决定了我们编译器的工作方式，也决定了我们各个文件之间调用、import的工作流程。这里曾经有两个选项，"node" and "classic"，但是"classic"这个选项在2019年12月就已经废弃了
     "resolveJsonModule": true,
-    "isolatedModules": true,
-    "noEmit": true,
-    "jsx": "react-jsx"
+    "isolatedModules": true, // 开启这个选项以后，编译器会将每个文件作为单独的模块来使用
+    "noEmit": true, // 开启这个选项表示当发生错误的时候，编译器不会生成 JavaScript 代码
+    "jsx": "react-jsx", // 允许编译器支持编译react代码
+    "plugins": [
+      {
+        "name": "typescript-plugin-css-modules"
+      }
+    ]
   },
-  "include": [
+  "include": [ // 使用此选项列出我们需要编译的文件， “文件路径”选项需要文件的相对或绝对路径
     "src"
   ]
 }
